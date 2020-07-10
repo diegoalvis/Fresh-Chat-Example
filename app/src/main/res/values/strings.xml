@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Fresh Chat Test</string>
+    <string name="freshchat_file_provider_authority">com.diegoalvis.freshchattest.provider</string>
 </resources>
