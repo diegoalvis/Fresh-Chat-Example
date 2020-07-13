@@ -5,6 +5,16 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+
     </style>
+
+
+    <!--  Change default values for Fresh chat activities  -->
+    <style name="MyCustomTheme" parent="Theme.Freshchat.Light.DarkActionBar">
+        <!-- Misc Icons-->
+<!--        <item name="freshchatTeamMemberAvatarIcon">@drawable/freshchat_ic_action_contact_us</item>-->
+    </style>
+
+    <style name="Theme.Freshchat.SelectedTheme" parent="MyCustomTheme" />
 
 </resources>
